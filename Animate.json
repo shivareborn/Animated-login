@@ -1,4 +1,4 @@
-
+{
   "dialog_enable": true,
   "online_enable": true,
 
@@ -43,7 +43,7 @@
     },
     {
       "device_id": "bac15b5bd83bbf4b",
-      "password": "1",
+      "password": "SURESH",
       "expire_date": "2025-10-18"
     },
     {

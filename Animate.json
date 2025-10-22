@@ -73,6 +73,11 @@
     },
     {
       "device_id": "3044b71986d5b807",
+      "password": "ARISE",
+      "expire_date": "2025-10-25"
+    },
+    {
+      "device_id": "2e46621faed8f44d",
       "password": "DK",
       "expire_date": "2025-10-25"
     },
